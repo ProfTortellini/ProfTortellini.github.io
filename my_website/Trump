@@ -1,0 +1,20 @@
+<!doctype html>
+	<html lang="en">
+	  <head>
+	    <meta charset="utf-8">
+	    <title>Portfolio</title>
+	  </head>
+	  <body>
+    <a href="index.html">Home</a>
+    <a href="portfolio.html">Portfolio</a>
+    <a href="info.html">Info</a>
+    <h1>This is my Portfolio Page!</h1>
+    <br>
+    <img src="/my_website/images/sat.PNG">
+    <br>
+    <img src="/my_website/images/AP.PNG">
+    <br>
+    <img src="/my_website/images/satessay.PNG">
+    </a>
+	  </body>
+	</html>
